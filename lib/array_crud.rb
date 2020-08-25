@@ -9,7 +9,7 @@ def create_an_array
 end
 
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(array, "arrays!")
   class_room = ["wow", "I", "am", "really", "learning"]
   class_room << "arrays!"
   puts class_room.inspect
